@@ -1,5 +1,4 @@
 # Milestone3Resumeofusman
-Milestone_3resumeofusman
 
 Milestone 3: Dynamic Resume Builder with Form (100 Points)
 
